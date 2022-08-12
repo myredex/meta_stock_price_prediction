@@ -1,0 +1,1073 @@
+1660210920257	geckodriver	INFO	Listening on 127.0.0.1:45167
+1660210920759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49699" "-no-remote" "-profile" "/tmp/rust_mozprofilexKuLg4"
+1660210921488	Marionette	INFO	Marionette enabled
+1660210921491	Marionette	INFO	Listening on port 38107
+WebDriver BiDi listening on ws://localhost:49699
+1660210921606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexKuLg4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49699/devtools/browser/0a05b727-9c33-4bca-a0b3-673f3bf7bf47
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660210930209	Marionette	INFO	Stopped listening on port 38107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660211122780	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1660211138775	geckodriver	INFO	Listening on 127.0.0.1:43005
+1660211139293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44841" "-no-remote" "-profile" "/tmp/rust_mozprofilefxM1Qo"
+1660211139929	Marionette	INFO	Marionette enabled
+1660211139932	Marionette	INFO	Listening on port 34121
+WebDriver BiDi listening on ws://localhost:44841
+1660211140042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefxM1Qo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44841/devtools/browser/9ff91a3e-b1d5-4747-806f-91f318bed069
+1660211144133	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 3690 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 7257 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1660211174562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967617/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967618/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660211616445	Marionette	INFO	Stopped listening on port 34121
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilefxM1Qo/protections.sqlite
+1660211657678	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1660211695697	geckodriver	INFO	Listening on 127.0.0.1:33933
+1660211695711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48129" "-no-remote" "-profile" "/tmp/rust_mozprofilecWzfVR"
+1660211696331	Marionette	INFO	Marionette enabled
+1660211696334	Marionette	INFO	Listening on port 36729
+WebDriver BiDi listening on ws://localhost:48129
+1660211696458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecWzfVR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48129/devtools/browser/02268492-b7bf-4ce7-bc00-47efeb507de1
+1660211699916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 3115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 1661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 6227 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1660211736257	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.macrotrends.net/stocks/charts/META/meta-platforms/financial-statements line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pix.adm.admixer.com/cdnf.js?v=22.100, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660211769306	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.macrotrends.net/stocks/charts/META/meta-platforms/financial-statements line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://aax-eu.amazon-adsystem.com/e/dtb/admi?b=I4nvEHnSEKLAgVIDN58l-5MAAAGCjFZMAAMAAAzuAQAxlItf&rnd=7321405358141660211822292&pp=1v01zwg&p=laew3k&crid=364_134975, line 1: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:4294967518"
+console.error: "Unable to find target with innerWindowId:4294967518"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 985"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:985:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 985, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 985"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:985:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 985, column: 0
+console.error: ({})
+JavaScript warning: https://www.macrotrends.net/stocks/charts/META/meta-platforms/financial-statements line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://aax-eu.amazon-adsystem.com/e/dtb/admi?b=I9NILJ8EaVwI9LkFOiavYtwAAAGCjF74dgMAAAzuAQCYGysy&rnd=3612121923811660212390281&pp=1v01zwg&p=laew3k&crid=364_135417, line 1: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+console.error: "Unable to find target with innerWindowId:4294967532"
+console.error: "Unable to find target with innerWindowId:4294967532"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1660212429862	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1004))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967298/pagestyle22 (resource://devtools/server/actors/page-style.js:1004:5)", "resource://devtools/shared/protocol/Front.js", 376))
+console.error: "Unable to find target with innerWindowId:4294967345"
+console.error: "Unable to find target with innerWindowId:4294967544"
+console.error: "Unable to find target with innerWindowId:4294967400"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+1660212496055	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967556/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967556/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967556/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 5052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 4865 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 2785 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3382: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 3966 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3382: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://www.macrotrends.net/stocks/charts/META/meta-platforms/financial-statements line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: https://aax-eu.amazon-adsystem.com/e/dtb/admi?b=I7YVmCXVN5KOQafQ32uGUf0AAAGCjGEs6QMAAAzuAQDmBUT5&rnd=9648522576391660212534574&pp=1v01zwg&p=laew3k&crid=364_135417, line 1: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+1660212536128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: "Unable to find target with innerWindowId:4294967589"
+console.error: "Unable to find target with innerWindowId:4294967583"
+console.error: "Unable to find target with innerWindowId:4294967583"
+console.error: "Unable to find target with innerWindowId:4294967619"
+console.error: "Unable to find target with innerWindowId:4294967689"
+console.error: "Unable to find target with innerWindowId:4294967699"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+1660212547636	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967713/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967713/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967713/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 4284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3382: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: https://fbb3b0d4bf78e0b2eadf27be472be659.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 6532 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967780/domwalker22 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 376))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967780/domwalker22 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 376))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 376: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967780/domwalker22 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1913: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 6709 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660212562868	geckodriver	INFO	Listening on 127.0.0.1:45059
+1660212563382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44159" "-no-remote" "-profile" "/tmp/rust_mozprofiletApBz4"
+1660212564014	Marionette	INFO	Marionette enabled
+1660212564017	Marionette	INFO	Listening on port 38337
+WebDriver BiDi listening on ws://localhost:44159
+1660212564126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletApBz4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44159/devtools/browser/ecfa7eb0-77c7-4317-b1c0-4d0d37df5832
+1660212567686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 5399 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 4008 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+1660213393655	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 5121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967494/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 3862 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967530/layout45, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967821/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967821/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967821/thread1\"}", "resource://devtools/shared/protocol/Front.js", 355))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal4294967821/thread1, {"value":true,"from":"server0.conn0.windowGlobal4294967821/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:355:24
+onPacket@resource://devtools/client/devtools-client.js:482:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 355, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967821/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967821/thread1\"}", "resource://devtools/shared/protocol/Front.js", 355))
+JavaScript error: https://b6f69e561ad1a58ba22e038ac6d5b3a1.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967845/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967848/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967849/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660214057414	geckodriver	INFO	Listening on 127.0.0.1:56747
+1660214057422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44861" "-no-remote" "-profile" "/tmp/rust_mozprofileEJXM9g"
+1660214057999	Marionette	INFO	Marionette enabled
+1660214058001	Marionette	INFO	Listening on port 40655
+WebDriver BiDi listening on ws://localhost:44861
+1660214058111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEJXM9g/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44861/devtools/browser/1d80550f-b6e2-43ad-ae41-d73462e6b141
+1660214069738	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 4490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660214130816	geckodriver	INFO	Listening on 127.0.0.1:56357
+1660214131320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45407" "-no-remote" "-profile" "/tmp/rust_mozprofile7mvYnS"
+1660214131893	Marionette	INFO	Marionette enabled
+1660214131897	Marionette	INFO	Listening on port 42005
+WebDriver BiDi listening on ws://localhost:45407
+1660214132023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7mvYnS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45407/devtools/browser/9bbc546c-a89f-4c51-9c1e-b8d58607dda1
+1660214139735	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 6065 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 6708 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://7ff1fe67151bc42bd2c2b77a3af863ce.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
