@@ -1,4 +1,5 @@
 # Meta Inc. Stock price predictions
+In this jupiter notebook I'll try to predict stocks price using webscrapping and multiple linear regression model.
 
 Let's take a look to stock prices and market capitalisation as a result of how market reacts to financial statistics of the company. 
 First of all we need to extract financial statistics from the web. After that we need to determine affection of this statistics to stock price and discover correlation.
